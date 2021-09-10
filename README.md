@@ -44,3 +44,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+***
+## Number counter using React<br/>
+![number-counter](https://user-images.githubusercontent.com/50728605/132857319-04254c60-8c9c-4e28-b909-d5f56bde5b14.gif)
